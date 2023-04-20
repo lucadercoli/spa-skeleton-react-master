@@ -25,7 +25,7 @@ nella documentazione._
 
 ## Accesso al servizio REST
 
-**URL (Anonymous):** https://crudcrud.com/ e copiare la url completa es: https://crudcrud.com/api/56ced3c2e13b455795de69ef2ff9fd6f
+**URL (Anonymous):** https://crudcrud.com/ e copiare la url completa aggiungendo "/tickets" come suffisso es: https://crudcrud.com/api/56ced3c2e13b455795de69ef2ff9fd6f/ticktes
 
 **Come specificare HTTP Verb, Body e Headers nelle chiamate HTTP**
 
