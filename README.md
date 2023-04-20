@@ -35,7 +35,7 @@ nella documentazione._
 basicHeaders: Headers = new Headers({
   Accept: "application/json",
   "Content-Type": "application/json",
-  Authorization: "Basic " + btoa(this.basicAuthAccount),
+  //Authorization: "Basic " + btoa(this.basicAuthAccount),
 });
 
 const promise = await fetch(this.apiURL, {
